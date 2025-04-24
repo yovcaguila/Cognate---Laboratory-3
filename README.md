@@ -41,6 +41,14 @@ Solution:
 - Or set up Port Forwarding in NAT mode.
 
 ## Reflection
+#### What challenges did you face during the deployment process?
+- 	The challenge I faced during the deployment process was first not being able to open the web application on the host machine. I looked at the problem and found that the network was not set to bridged adapter. Second, creating the web application was difficult because I needed to go back and forth from the file directory when designing and creating the HTML and CSS files.
+#### What did you learn about configuring Linux servers for hosting web apps?
+- 	I learned that configuring Linux servers for hosting web applications is not simple. In the terminal, there are a lot of commands, and when a typographical error is made, it will not work. Thus, it taught me to be cautious when inputting commands in the terminal for a smooth process.
+#### Which framework did you find easiest to use and why?
+- 	I found Flask the easiest to use because it only uses minimal dependencies, making it easy to learn and use for beginners. Also, I have common knowledge regarding Python, which made it much easier to implement the scripts as my back-end.
+#### How does deploying in a VM simulate real-world cloud hosting?
+- 	Deploying a virtual machine simulates real-world cloud hosting by allowing users to still access the web application with the host machine. With the IP address of the virtual machine, I was able to access the web application using my browser on my laptop.
 
 ## Screenshots
 ### Terminal showing server running
