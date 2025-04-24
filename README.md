@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f9241063-d8fd-4f50-bf07-b45c723184a8)# Laboratory 3: Develop & Deploy a Web App inside a VirtualBox Linux VM
+# Laboratory 3: Develop & Deploy a Web App inside a VirtualBox Linux VM
 This is a simple, minimalist web application built with **Flask**, designed with a clean black-and-white aesthetic. 
 The app includes three pages: **Home**, **About**, and **Contact** (with form handling).
 
